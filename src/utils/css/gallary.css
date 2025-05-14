@@ -1,0 +1,30 @@
+.gallary-images {
+  column-count: 4;
+  column-width: 20%;
+  padding: 0 1rem;
+}
+
+.gallary-images .pic {
+  transition: all 350ms ease;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}
+
+.gallary-images .pic:hover {
+  filter: opacity(0.9);
+}
+
+@media (max-width: 600px) {
+  .gallary-images {
+    column-count: 2;
+    column-width: 50%;
+    padding: 0 0.5rem;
+  }
+}
+@media (max-width: 481px) {
+  .gallary-images {
+    column-count: 1;
+    column-width: 50%;
+    padding: 0 0.5rem;
+  }
+}
