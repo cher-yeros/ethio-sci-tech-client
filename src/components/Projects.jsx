@@ -90,6 +90,7 @@ function Projects() {
                   <SwiperSlide key={project.id}>
                     <div className="item card">
                       <img
+                        crossOrigin="anonymous"
                         src={`${apiUrl}/static/project/${project.photo}`}
                         alt="Course #2"
                       />

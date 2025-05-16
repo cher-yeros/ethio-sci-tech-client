@@ -187,6 +187,7 @@ function ShowRecordDetail(props) {
               <div className="">
                 <div className="card-body profile-card py-2 border d-flex flex-column align-items-center">
                   <img
+                    crossOrigin="anonymous"
                     style={{ width: "100% !important", maxWidth: "100%" }}
                     id="pImg"
                     src={`${apiUrl}/static/apparatus/${record.photo}`}
@@ -359,6 +360,7 @@ function AddNew(props) {
                       Select Photo
                     </label>
                     <img
+                      crossOrigin="anonymous"
                       id="photo"
                       style={{
                         maxWidth: "100%",

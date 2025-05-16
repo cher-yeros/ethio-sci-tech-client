@@ -14,6 +14,7 @@ function AdminProfile() {
             <div class="card">
               <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
                 <img
+                  crossOrigin="anonymous"
                   src="images/profile-img.jpg"
                   alt="Profile"
                   class="rounded-circle"
@@ -173,7 +174,11 @@ function ProfileEdit() {
             Profile Image
           </label>
           <div class="col-md-8 col-lg-9">
-            <img src="images/profile-img.jpg" alt="Profile" />
+            <img
+              crossOrigin="anonymous"
+              src="images/profile-img.jpg"
+              alt="Profile"
+            />
             <div class="pt-2">
               <a
                 href="#"

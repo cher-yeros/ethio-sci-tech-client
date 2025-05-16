@@ -115,6 +115,7 @@ function SingleTestimony() {
                         <div class="testimonial-item">
                           <div class="d-flex align-items-center">
                             <img
+                              crossOrigin="anonymous"
                               src="/images/team/team-1.jpg"
                               class="testimonial-img flex-shrink-0"
                               alt=""

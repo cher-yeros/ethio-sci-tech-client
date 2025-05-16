@@ -40,7 +40,12 @@ function NiceHeader() {
       >
         <div className="d-flex align-items-center justify-content-between">
           <Link to="/dashboard" className="logo d-flex align-items-center">
-            <img src="images/logo1.png" alt="" style={{ minHeight: "72px" }} />
+            <img
+              crossOrigin="anonymous"
+              src="images/logo1.png"
+              alt=""
+              style={{ minHeight: "72px" }}
+            />
             <span className="d-none d-lg-block">Ehio-Scitech</span>
           </Link>
           <i
@@ -49,7 +54,7 @@ function NiceHeader() {
           ></i>
         </div>
         <a href="index.html" className="logo d-flex align-items-center">
-          <img src="assets/img/logo.png" alt="" />
+          <img crossOrigin="anonymous" src="assets/img/logo.png" alt="" />
           <span
             className="d-none d-lg-block"
             style={{ textTransform: "capitalize", fontWeight: "normal" }}
@@ -161,6 +166,7 @@ function NiceHeader() {
                 <li className="message-item">
                   <a href="#">
                     <img
+crossOrigin="anonymous"
                       src="assets/img/messages-1.jpg"
                       alt=""
                       className="rounded-circle"
@@ -182,6 +188,7 @@ function NiceHeader() {
                 <li className="message-item">
                   <a href="#">
                     <img
+crossOrigin="anonymous"
                       src="assets/img/messages-2.jpg"
                       alt=""
                       className="rounded-circle"
@@ -203,6 +210,7 @@ function NiceHeader() {
                 <li className="message-item">
                   <a href="#">
                     <img
+crossOrigin="anonymous"
                       src="assets/img/messages-3.jpg"
                       alt=""
                       className="rounded-circle"
@@ -233,6 +241,7 @@ function NiceHeader() {
                 data-bs-toggle="dropdown"
               >
                 <img
+                  crossOrigin="anonymous"
                   src="assets/images/default-admin.jpg"
                   alt="Profile"
                   className="rounded-circle"

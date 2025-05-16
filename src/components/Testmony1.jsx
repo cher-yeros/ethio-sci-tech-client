@@ -8,7 +8,11 @@ function Testmony1() {
     <OwlCarousel className="owl-theme" loop margin={1} nav>
       <div className="item">
         <div className=" card">
-          <img src="assets/images/apparatus.jpg" alt="Course #2" />
+          <img
+            crossOrigin="anonymous"
+            src="assets/images/apparatus.jpg"
+            alt="Course #2"
+          />
           <div className="down-content">
             <h4>Teaching Apparatus Name</h4>
             <h6>
@@ -23,7 +27,11 @@ function Testmony1() {
       </div>
       <div className="item">
         <div className=" card">
-          <img src="assets/images/apparatus.jpg" alt="Course #2" />
+          <img
+            crossOrigin="anonymous"
+            src="assets/images/apparatus.jpg"
+            alt="Course #2"
+          />
           <div className="down-content">
             <h4>Teaching Apparatus Name</h4>
             <h6>

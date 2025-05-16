@@ -71,6 +71,7 @@ function Gallary() {
             {gallaries.map((gallary, i) => (
               <div className="pic" key={gallary.id}>
                 <img
+                  crossOrigin="anonymous"
                   // src={"images/" + item.src}
                   src={`${apiUrl}/static/gallary/${gallary.photo}`}
                   alt=""

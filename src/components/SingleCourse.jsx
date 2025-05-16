@@ -90,6 +90,7 @@ function SingleCourse() {
                       <Row>
                         <Col lg={5}>
                           <img
+                            crossOrigin="anonymous"
                             src={`https://img.youtube.com/vi/${course?.youtubeLink?.substr(
                               course?.youtubeLink?.indexOf("?v=") + 3,
                               course?.youtubeLink?.length - 1

@@ -133,6 +133,7 @@ function Gallary() {
               <Col key={gallary.id} sm={6} md={3} lg={4}>
                 <div className="item card">
                   <img
+                    crossOrigin="anonymous"
                     id={gallary.id}
                     style={{ width: "100%" }}
                     src={`${apiUrl}/static/gallary/${gallary?.photo}`}

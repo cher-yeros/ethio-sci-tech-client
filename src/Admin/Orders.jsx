@@ -185,6 +185,7 @@ function ShowRecordDetail(props) {
                 <div className="card-body profile-card py-2 border d-flex flex-column align-items-center">
                   {/*<label htmlFor="">Apparatus Image</label>*/}
                   <img
+                    crossOrigin="anonymous"
                     style={{ width: "100% !important", maxWidth: "100%" }}
                     id="pImg"
                     src={`${apiUrl}/static/apparatus/${record?.Apparatu?.photo}`}

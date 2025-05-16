@@ -39,6 +39,7 @@ function TestingClass() {
         {images.map((item, i) => (
           <div className="pic" key={item.src}>
             <img
+              crossOrigin="anonymous"
               src={"images/" + item.src}
               alt={item.src}
               style={{ width: "100%" }}

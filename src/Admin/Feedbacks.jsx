@@ -188,6 +188,7 @@ function ShowRecordDetail(props) {
             >
               <div className="author-image">
                 <img
+                  crossOrigin="anonymous"
                   className="rounded-circle"
                   src="assets/images/default-user.jpg"
                   alt="Author 2"

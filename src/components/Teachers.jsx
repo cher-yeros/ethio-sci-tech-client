@@ -70,6 +70,7 @@ function Teams() {
                         <div class="member d-flex align-items-start">
                           <div class="pic">
                             <img
+                              crossOrigin="anonymous"
                               src={`${apiUrl}/static/instructor/${instructor?.photo}`}
                               // src="images/team/team-1.jpg"
                               class="img-fluid"

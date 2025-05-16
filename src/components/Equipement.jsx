@@ -73,6 +73,7 @@ function Equipment() {
                           <Col key={apparatus.id} sm={6} md={4} lg={3}>
                             <div key={apparatus.id} className="item card">
                               <img
+                                crossOrigin="anonymous"
                                 src={`${apiUrl}/static/apparatus/${apparatus.photo}`}
                                 alt="Course #2"
                               />

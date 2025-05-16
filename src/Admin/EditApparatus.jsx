@@ -95,6 +95,7 @@ function EditApparatus() {
                         Select Photo
                       </label>
                       <img
+                        crossOrigin="anonymous"
                         id="photo"
                         style={{
                           maxWidth: "100%",

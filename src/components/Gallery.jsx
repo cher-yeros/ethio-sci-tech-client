@@ -20,6 +20,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -35,6 +36,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -50,6 +52,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -65,6 +68,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -80,6 +84,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -95,6 +100,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -110,6 +116,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -125,6 +132,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -140,6 +148,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -155,6 +164,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -170,6 +180,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -185,6 +196,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -200,6 +212,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -215,6 +228,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -230,6 +244,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -245,6 +260,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -260,6 +276,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -275,6 +292,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"
@@ -290,6 +308,7 @@ function Gallery() {
                 style={{ borderRadius: "0", padding: "0" }}
               >
                 <img
+                  crossOrigin="anonymous"
                   style={{ borderRadius: "0" }}
                   src="assets/images/courses-02.jpg"
                   alt="Course #2"

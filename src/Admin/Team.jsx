@@ -100,6 +100,7 @@ function Team() {
                   <Row>
                     <Col lg={5}>
                       <img
+                        crossOrigin="anonymous"
                         id={team.id}
                         style={{ width: "100%" }}
                         src={`${apiUrl}/static/team/${team?.photo}`}
@@ -292,6 +293,7 @@ function AddNew(props) {
                       Select Photo
                     </label>
                     <img
+                      crossOrigin="anonymous"
                       id="photo"
                       style={{
                         maxWidth: "100%",
